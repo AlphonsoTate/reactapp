@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "/images/Black.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/images/freeza.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/images/goku.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/images/Gohan.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/images/cell.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "/images/Black.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "/images/trunks.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "/images/Vegeta.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "/images/Scotty.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "/images/goku.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "/images/trunks.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "/images/Vegeta.jpg",
+    "clicked": false
+  }
+]
